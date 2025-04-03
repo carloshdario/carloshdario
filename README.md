@@ -1,7 +1,9 @@
 # 👋 Hey there! I'm Carlos Henrique Dario  
 ### 🚀 Software Developer | Java Enthusiast | Back-End Specialist  
 
-[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-batista-dario-9883671aa/)
+![Profile Picture](YOUR_IMAGE_URL_HERE)  
+
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-batista-dario-9883671aa/)  
 
 ---
 
@@ -33,18 +35,18 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Controle de Estoque](https://github.com/carloshdario/controle-estoque)**  
-📌 *Sistema completo para gerenciamento de estoque utilizando Java, Spring Boot, Vue.js e MySQL.*  
+🔹 **[Stock Control System](https://github.com/carloshdario/controle-estoque)**  
+📌 *A complete inventory management system using Java, Spring Boot, Vue.js, and MySQL.*  
 
-🔹 **[Em breve: Novo projeto em desenvolvimento...]()**  
+🔹 **[Coming soon: New project in development...]()**  
 
 ---
 
 ## 🎯 Current Goals  
 
-- ✅ **Finalizar o Controle de Estoque** *(Back-end otimizado e testes automatizados)*  
-- 🎯 **Concluir Especialização Java – AlgaWorks** *(Meta: até 02/05)*  
-- 🚀 **Expandir portfólio no GitHub** *(Projetos aplicáveis ao mercado)*  
+- ✅ **Complete the Stock Control System** *(Optimized back-end and automated testing)*  
+- 🎯 **Finish Java Specialist Course – AlgaWorks** *(Deadline: May 2nd)*  
+- 🚀 **Expand GitHub portfolio** *(Market-relevant projects)*  
 
 ---
 
@@ -52,4 +54,4 @@
 
 ---
 
-💬 **Quer trocar uma ideia sobre desenvolvimento ou projetos?** Me chama no LinkedIn! 🚀  
+💬 **Want to chat about development or projects?** Connect with me on LinkedIn! 🚀  
