@@ -1,9 +1,8 @@
 # 👋 Hey there! I'm Carlos Henrique Dario  
-### 🚀 Software Developer | Java Enthusiast | Back-End Specialist  
+### 🚀 Software Developer | Java Enthusiast | Back-End  
 
-![Profile Picture](YOUR_IMAGE_URL_HERE)  
 
-[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-batista-dario-9883671aa/)  
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/carloshbdario/)  
 
 ---
 
@@ -35,16 +34,12 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Stock Control System](https://github.com/carloshdario/controle-estoque)**  
-📌 *A complete inventory management system using Java, Spring Boot, Vue.js, and MySQL.*  
-
 🔹 **[Coming soon: New project in development...]()**  
 
 ---
 
 ## 🎯 Current Goals  
 
-- ✅ **Complete the Stock Control System** *(Optimized back-end and automated testing)*  
 - 🎯 **Finish Java Specialist Course – AlgaWorks** *(Deadline: May 2nd)*  
 - 🚀 **Expand GitHub portfolio** *(Market-relevant projects)*  
 
