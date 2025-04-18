@@ -5,11 +5,6 @@ Passionate about building scalable and maintainable back-end solutions. Currentl
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
 
----
-
-## 📈 GitHub Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=carloshdario&theme=github)
 
 ---
 
@@ -45,9 +40,6 @@ Currently learning how to master Java and Spring for building enterprise-level a
   
 - 🚀 **Expand GitHub Portfolio** *(Market-relevant projects)*  
   Building real-world applications to solve real-world problems and improve my portfolio.
-
-- 🌱 **Learn AI and Machine Learning**  
-  Exploring ways to integrate AI into back-end development and expand my skill set.
 
 ---
 
