@@ -6,7 +6,6 @@ Passionate about back-end development with Java. Currently focused on deepening 
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carloshbdario@gmail.com)
-![GitHub visitors](https://komarev.com/ghpvc/?username=carloshdario&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
