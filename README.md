@@ -1,56 +1,73 @@
-# 👋 Hey there! I'm Carlos Henrique Dario  
-### 🚀 Software Developer | Java Enthusiast | Back-End Engineer
+# 👋 Hey! I'm Carlos Henrique Dario
 
-Passionate about building scalable and maintainable back-end solutions. Currently diving deep into Java, Spring, and exploring the world of databases with MySQL. Always excited to learn new technologies and improve my skills!
+### 🚀 Java Specialist in the Making | Back-End Developer | Content Creator @O Dario Dev
 
-[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
+Apaixonado por desenvolvimento back-end com Java. Atualmente focado em aprofundar meus conhecimentos em **Java puro**, **Spring Framework** e boas práticas de engenharia de software. Criador de conteúdo no Instagram [@odariodev](https://www.instagram.com/odariodev) ensinando Java de forma simples, direta e descomplicada.  
 
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carloshbdario@gmail.com)
+![GitHub visitors](https://komarev.com/ghpvc/?username=carloshdario&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloshdario&show_icons=true&hide=issues,pullrequests&theme=radical)
+- 🎓 Estudando para me tornar **especialista em Java e Spring**
+- 🎥 Criador de conteúdo sobre **Java** para iniciantes (@odariodev)
+- 🔨 Desenvolvendo projetos back-end com foco em boas práticas
+- 💬 Sempre aberto a colaborações, ideias e networking!
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)  
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+**Tools**  
+[![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)](https://www.jetbrains.com/idea/)  
+[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)](https://linuxmint.com)  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## 📚 Currently Learning
 
-<div style="display: flex; gap: 8px;">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-Currently learning how to master Java and Spring for building enterprise-level applications. Excited to improve my database management skills with MySQL!
+- 💡 **Java avançado com AlgaWorks** *(35 módulos – em andamento)*  
+- ☕️ Expressões lambda, streams e boas práticas funcionais  
+- 🔧 Boas práticas com I/O, tratamento de exceções e coleções
 
 ---
 
 ## 🚀 Featured Projects  
-
-🔹 **[Coming soon: New project in development...]()**  
-*Stay tuned for a new project that will showcase my skills in back-end development!*
+📌 *Coming soon: projetos back-end com foco em boas práticas e design patterns!*
 
 ---
 
-## 🎯 Current Goals
+## 📈 GitHub Stats
 
-- 🎯 **Finish Java Specialist Course – AlgaWorks** *(Deadline: May 2nd)*  
-  Focusing on deepening my understanding of core Java concepts and best practices.
-  
-- 🚀 **Expand GitHub Portfolio** *(Market-relevant projects)*  
-  Building real-world applications to solve real-world problems and improve my portfolio.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloshdario&show_icons=true&theme=radical)
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+## 🎯 Goals for 2025
+
+- ✅ Finalizar curso de Especialista Java até **2 de maio**  
+- 🚀 Iniciar trilha **Spring Boot** + projetos reais  
+- 🎥 Ajudar outros devs iniciantes através do Instagram [@odariodev](https://www.instagram.com/odariodev)  
+- 📚 Começar jornada em **Inteligência Artificial e Prompt Engineering**
 
 ---
 
-## 📱 Social & Contact  
+## 📬 Let’s Connect
 
-- **Connect with me on [LinkedIn](https://www.linkedin.com/in/carloshbdario/)** 🚀  
+- 💼 Aberto a colaborações e networking  
+- 📲 Instagram: [@odariodev](https://www.instagram.com/odariodev)  
+- 💌 Email: carloshbdario@gmail.com  
+- 💬 LinkedIn: [Carlos Henrique Dario](https://www.linkedin.com/in/carloshbdario/)
 
 ---
 
-💬 **Want to chat about development or projects?** Feel free to reach out to me on LinkedIn. I'm always open to new ideas and collaborations! 🚀
+> _"O conhecimento que não é compartilhado, é desperdiçado."_ – O Dario Dev
