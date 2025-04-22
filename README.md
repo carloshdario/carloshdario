@@ -57,7 +57,6 @@ Passionate about back-end development with Java. Currently focused on deepening 
 - ✅ Complete the Java Specialist course by **May 2nd**  
 - 🚀 Start the **Spring Boot** journey + build real-world projects  
 - 🎥 Help new developers through Instagram [@odariodev](https://www.instagram.com/odariodev)  
-- 📚 Begin the path toward **Artificial Intelligence and Prompt Engineering**
 
 ---
 
@@ -65,9 +64,8 @@ Passionate about back-end development with Java. Currently focused on deepening 
 
 - 💼 Open to collaborations and networking  
 - 📲 Instagram: [@odariodev](https://www.instagram.com/odariodev)  
-- 💌 Email: carloshbdario@gmail.com  
+- 💌 Email: carlos.dario.dev@gmail.com  
 - 💬 LinkedIn: [Carlos Henrique Dario](https://www.linkedin.com/in/carloshbdario/)
 
 ---
 
-> _"Knowledge that isn't shared is wasted."_ – O Dario Dev
