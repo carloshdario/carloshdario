@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Carlos Henrique Dario
 
-### 🚀 Future Java Developer| Back-End Developer | Content Creator @O Dario Dev
+### 🚀 Future Java Developer| Back-End Developer | Content Creator @O Dev Dario
 
-Passionate about back-end development with Java. Currently focused on deepening my knowledge in **core Java**, **Spring Framework**, and software engineering best practices. I create educational content on Instagram [@odariodev](https://www.instagram.com/odariodev), teaching Java in a simple, straightforward, and beginner-friendly way.
+Passionate about back-end development with Java. Currently focused on deepening my knowledge in **core Java**, **Spring Framework**, and software engineering best practices. I create educational content on Instagram [@odevdario](https://www.instagram.com/odevdario), teaching Java in a simple, straightforward, and beginner-friendly way.
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carloshbdario@gmail.com)
@@ -55,14 +55,14 @@ Passionate about back-end development with Java. Currently focused on deepening 
 
 - ✅ Complete the Java Specialist course by **May 2nd**  
 - 🚀 Start the **Spring Boot** journey + build real-world projects  
-- 🎥 Help new developers through Instagram [@odariodev](https://www.instagram.com/odariodev)  
+- 🎥 Help new developers through Instagram [@odariodev](https://www.instagram.com/odevdario)  
 
 ---
 
 ## 📬 Let’s Connect
 
 - 💼 Open to collaborations and networking  
-- 📲 Instagram: [@odariodev](https://www.instagram.com/odariodev)  
+- 📲 Instagram: [@odevdario](https://www.instagram.com/odevdario)  
 - 💌 Email: carlos.dario.dev@gmail.com  
 - 💬 LinkedIn: [Carlos Henrique Dario](https://www.linkedin.com/in/carloshbdario/)
 
