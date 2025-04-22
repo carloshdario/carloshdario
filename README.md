@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Carlos Henrique Dario
 
-### 🚀 Java Specialist in the Making | Back-End Developer | Content Creator @O Dario Dev
+### 🚀 Future Java Developer| Back-End Developer | Content Creator @O Dario Dev
 
-Apaixonado por desenvolvimento back-end com Java. Atualmente focado em aprofundar meus conhecimentos em **Java puro**, **Spring Framework** e boas práticas de engenharia de software. Criador de conteúdo no Instagram [@odariodev](https://www.instagram.com/odariodev) ensinando Java de forma simples, direta e descomplicada.  
+Passionate about back-end development with Java. Currently focused on deepening my knowledge in **core Java**, **Spring Framework**, and software engineering best practices. I create educational content on Instagram [@odariodev](https://www.instagram.com/odariodev), teaching Java in a simple, straightforward, and beginner-friendly way.
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carloshbdario@gmail.com)
@@ -12,10 +12,10 @@ Apaixonado por desenvolvimento back-end com Java. Atualmente focado em aprofunda
 
 ## 💼 About Me
 
-- 🎓 Estudando para me tornar **especialista em Java e Spring**
-- 🎥 Criador de conteúdo sobre **Java** para iniciantes (@odariodev)
-- 🔨 Desenvolvendo projetos back-end com foco em boas práticas
-- 💬 Sempre aberto a colaborações, ideias e networking!
+- 🎓 Studying to become a **Java and Spring specialist**
+- 🎥 Content creator for Java beginners (@odariodev)
+- 🔨 Developing back-end projects with a focus on clean code and best practices
+- 💬 Always open to collaborations, ideas, and networking!
 
 ---
 
@@ -35,14 +35,14 @@ Apaixonado por desenvolvimento back-end com Java. Atualmente focado em aprofunda
 
 ## 📚 Currently Learning
 
-- 💡 **Java avançado com AlgaWorks** *(35 módulos – em andamento)*  
-- ☕️ Expressões lambda, streams e boas práticas funcionais  
-- 🔧 Boas práticas com I/O, tratamento de exceções e coleções
+- 💡 **Advanced Java with AlgaWorks** *(35 modules – in progress)*  
+- ☕️ Lambda expressions, streams, and functional programming best practices  
+- 🔧 Clean code, I/O handling, exception handling, and collections
 
 ---
 
 ## 🚀 Featured Projects  
-📌 *Coming soon: projetos back-end com foco em boas práticas e design patterns!*
+📌 *Coming soon: back-end projects focused on clean architecture and design patterns!*
 
 ---
 
@@ -54,20 +54,20 @@ Apaixonado por desenvolvimento back-end com Java. Atualmente focado em aprofunda
 
 ## 🎯 Goals for 2025
 
-- ✅ Finalizar curso de Especialista Java até **2 de maio**  
-- 🚀 Iniciar trilha **Spring Boot** + projetos reais  
-- 🎥 Ajudar outros devs iniciantes através do Instagram [@odariodev](https://www.instagram.com/odariodev)  
-- 📚 Começar jornada em **Inteligência Artificial e Prompt Engineering**
+- ✅ Complete the Java Specialist course by **May 2nd**  
+- 🚀 Start the **Spring Boot** journey + build real-world projects  
+- 🎥 Help new developers through Instagram [@odariodev](https://www.instagram.com/odariodev)  
+- 📚 Begin the path toward **Artificial Intelligence and Prompt Engineering**
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 Aberto a colaborações e networking  
+- 💼 Open to collaborations and networking  
 - 📲 Instagram: [@odariodev](https://www.instagram.com/odariodev)  
 - 💌 Email: carloshbdario@gmail.com  
 - 💬 LinkedIn: [Carlos Henrique Dario](https://www.linkedin.com/in/carloshbdario/)
 
 ---
 
-> _"O conhecimento que não é compartilhado, é desperdiçado."_ – O Dario Dev
+> _"Knowledge that isn't shared is wasted."_ – O Dario Dev
