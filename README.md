@@ -1,8 +1,11 @@
-# 👋 Hey! I'm Carlos Henrique Dario
+# 👋 Hi, I'm Carlos Henrique Dario
 
-### 🚀 Future Java Developer| Back-End Developer | Content Creator @O Dev Dario
+### ☕ Java Back-End Developer in Progress | Spring Enthusiast | Content Creator @odevdario
 
-Passionate about back-end development with Java. Currently focused on deepening my knowledge in **core Java**, **Spring Framework**, and software engineering best practices. I create educational content on Instagram [@odevdario](https://www.instagram.com/odevdario), teaching Java in a simple, straightforward, and beginner-friendly way.
+I'm a back-end developer focused on building robust and maintainable applications using **Java** and the **Spring ecosystem**.  
+Currently deepening my knowledge in **core Java**, **software architecture**, and **clean code practices**, while sharing my learning journey and helping beginners through educational content.
+
+📚 Teaching Java in a simple and practical way on Instagram: [@odevdario](https://www.instagram.com/odevdario)
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Dario-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshbdario/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carloshbdario@gmail.com)
@@ -11,37 +14,47 @@ Passionate about back-end development with Java. Currently focused on deepening 
 
 ## 💼 About Me
 
-- 🎓 Studying to become a **Java and Spring specialist**
-- 🎥 Content creator for Java beginners (@odariodev)
-- 🔨 Developing back-end projects with a focus on clean code and best practices
-- 💬 Always open to collaborations, ideas, and networking!
+- ☕ Focused on **Java Back-End Development**
+- 🧠 Studying **Spring Framework**, **Software Architecture**, and **Clean Code**
+- 🔧 Building real-world backend projects with best practices
+- 🎥 Creating beginner-friendly Java content (@odevdario)
+- 🤝 Open to collaborations, learning opportunities, and networking
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**  
+### Backend
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)  
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)  
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-**Tools**  
+### Tools & Environment
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)](https://www.jetbrains.com/idea/)  
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)](https://linuxmint.com)  
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## 📚 Currently Learning
 
-- 💡 **Advanced Java with AlgaWorks** *(35 modules – in progress)*  
-- ☕️ Lambda expressions, streams, and functional programming best practices  
-- 🔧 Clean code, I/O handling, exception handling, and collections
+- Advanced Java (streams, lambdas, collections, exception handling)
+- Object-Oriented Design & Clean Architecture principles
+- Spring Boot fundamentals and REST API development
+- Testing and backend best practices
 
 ---
 
-## 🚀 Featured Projects  
-📌 *Coming soon: back-end projects focused on clean architecture and design patterns!*
+## 🚀 Projects
+
+📌 Back-end projects focused on:
+
+- Clean Architecture
+- RESTful APIs
+- Design Patterns
+- Best Practices in Java
+
+(*Projects in active development — stay tuned!*)
 
 ---
 
@@ -51,20 +64,18 @@ Passionate about back-end development with Java. Currently focused on deepening 
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Current Goals
 
-- ✅ Complete the Java Specialist course by **May 2nd**  
-- 🚀 Start the **Spring Boot** journey + build real-world projects  
-- 🎥 Help new developers through Instagram [@odariodev](https://www.instagram.com/odevdario)  
+- ☕ Deepen Java expertise and backend fundamentals
+- 🚀 Build production-like Spring Boot APIs
+- 📚 Strengthen software engineering foundations
+- 🎥 Help beginner developers through educational content
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
-- 💼 Open to collaborations and networking  
-- 📲 Instagram: [@odevdario](https://www.instagram.com/odevdario)  
-- 💌 Email: carlos.dario.dev@gmail.com  
+- 💼 Open to networking and collaborations
+- 📲 Instagram: [@odevdario](https://www.instagram.com/odevdario)
+- 💌 Email: carlos.dario.dev@gmail.com
 - 💬 LinkedIn: [Carlos Henrique Dario](https://www.linkedin.com/in/carloshbdario/)
-
----
-
